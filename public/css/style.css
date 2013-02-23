@@ -1,0 +1,99 @@
+﻿.jumbotron {
+	margin: 80px 0;
+	text-align: center;
+}
+.jumbotron h1 {
+	font-size: 100px;
+	line-height: 1;
+}
+.jumbotron .lead {
+	font-size: 24px;
+	line-height: 1.25;
+}
+
+.jumbotron .btn {
+	font-size: 21px;
+	padding: 14px 24px;
+}
+#navi {
+	list-style-type:square;
+	font-size: 16px;
+	color: #06F;
+	text-decoration: underline;
+	font-style: italic;
+	background-color: #0FF;
+}
+
+
+#navi {  
+	list-style:none;
+}
+
+
+#navi {  
+	list-style:none;
+	margin:0;
+	padding:0;
+	}
+
+#navi li {
+	margin:2px;
+	padding:2px;
+	border:1px solid#CCCCCC;
+	}
+
+
+#navi {  
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#navi li {
+	margin:2px;
+	padding:2px;
+	border:1px solid #CCCCCC;
+	float:left;
+}
+
+
+#navi {  
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#navi li {
+	margin:2px;
+	padding:0; 
+	float:left;
+}
+#navi li a {
+	display:block; 
+	width:100px;
+	padding:4px 0;
+	text-decoration:none;
+	text-align:center;
+	font-size:15px;
+	color:#FFFFFF;
+	background-color:#000000;
+}
+
+#navi li a:hover {
+	color:#99CC00;
+	background-color:#003366;
+}
+#navi li a {
+	display:block;
+	width:100px;
+	padding:4px 0;
+	text-decoration:none;
+	text-align:center;
+	font-size:14px;
+	color:#FFFFFF;
+	background-color:#000000;
+	border-left:10px solid #666666; 
+}
+#navi li a:hover {
+	color:#3CF;
+	background-color:#003366;
+	border-left-color:#69F;
+}
